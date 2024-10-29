@@ -4,6 +4,7 @@
 //
 //  Created by Tium Solutions on 10/29/24.
 //
+// 주의점 : info.plist 에서 Enable multiple window, Preferred defauly scene session Role 을 key 로 잡아줘야 정상적으로 새로운 윈도우가 뜲.
 
 import SwiftUI
 
